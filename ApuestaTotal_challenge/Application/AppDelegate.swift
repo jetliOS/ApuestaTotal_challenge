@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ApuestaTotal_challenge
 //
-//  Created by Estrella BH on 19/03/26.
+//  Created by Jet Li Jesús Herrera Huaraz on 17/03/26.
 //
 
 import UIKit
